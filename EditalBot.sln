@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditalBot.WebApi", "EditalBot.WebApi\EditalBot.WebApi.csproj", "{07AFA0EA-7E3A-47F1-882E-D19AB0CEE21F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditalBot.Aplicacao", "EditalBot.Aplicacao\EditalBot.Aplicacao.csproj", "{83EB1B76-6AD1-4635-A6E4-B9364E105C38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditalBot.Aplicacao", "EditalBot.Aplicacao\EditalBot.Aplicacao.csproj", "{DE7C9E7F-9D13-493F-894E-2C5FBE7ED329}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{07AFA0EA-7E3A-47F1-882E-D19AB0CEE21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07AFA0EA-7E3A-47F1-882E-D19AB0CEE21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07AFA0EA-7E3A-47F1-882E-D19AB0CEE21F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83EB1B76-6AD1-4635-A6E4-B9364E105C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83EB1B76-6AD1-4635-A6E4-B9364E105C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83EB1B76-6AD1-4635-A6E4-B9364E105C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83EB1B76-6AD1-4635-A6E4-B9364E105C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7C9E7F-9D13-493F-894E-2C5FBE7ED329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7C9E7F-9D13-493F-894E-2C5FBE7ED329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7C9E7F-9D13-493F-894E-2C5FBE7ED329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7C9E7F-9D13-493F-894E-2C5FBE7ED329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

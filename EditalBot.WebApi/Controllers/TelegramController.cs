@@ -17,9 +17,9 @@ namespace EditalBot.WebApi.Controllers
         }
 
         [HttpPost]
-        public IActionResult EnviarMensagem([FromBody] Mensagem mensagem)
+        public IActionResult EnviarMensagem()
         {
-            _telegramService.SendMessage(mensagem);
+            _telegramService.SendMessage(new Mensagem());
             return Ok();
         }
     }
