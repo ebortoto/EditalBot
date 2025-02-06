@@ -6,7 +6,7 @@ on:
 jobs:
   run_shell_command:
     name: Actions are cool :D
-    runs-on: oracle-vps
+    runs-on: self-hosted
     steps:
       - name: Say hello
         run: echo "Hello :D"
