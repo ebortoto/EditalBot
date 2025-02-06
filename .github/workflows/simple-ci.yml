@@ -1,0 +1,12 @@
+name: Simple
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run_shell_command:
+    name: Actions are cool :D
+    runs-on: oracle-vps
+    steps:
+      - name: Say hello
+        run: echo "Hello :D"
